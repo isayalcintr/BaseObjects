@@ -1,7 +1,6 @@
 {
   "name": "isayalcintr/baseobjects",
   "description": "Base object structures for Laravel",
-  "minimum-stability": "stable",
   "license": "MIT",
   "autoload": {
     "psr-4": {
